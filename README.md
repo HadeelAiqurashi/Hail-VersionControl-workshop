@@ -1,2 +1,2 @@
 # Hail-VersionControl-workshop
-test
+This is a simple test to use Githup.
